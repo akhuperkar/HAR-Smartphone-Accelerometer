@@ -1,6 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akhuperkar/HAR-Smartphone-Accelerometer/master?urlpath=https%3A%2F%2Fgithub.com%2Fakhuperkar%2FHAR-Smartphone-Accelerometer%2Fblob%2Fmaster%2FHAR%2520Using%2520Machine%2520Learning%2520.ipynb)
+
 # Human Activity Recognition from Smartphone Accelerometer Data
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akhuperkar/HAR-Smartphone-Accelerometer/master?urlpath=https%3A%2F%2Fgithub.com%2Fakhuperkar%2FHAR-Smartphone-Accelerometer%2Fblob%2Fmaster%2FHAR%2520Using%2520Machine%2520Learning%2520.ipynb)
 >**Author**: Abhijit Khuperkar, Data Scientist    
 >**Email**: akhuperkar@yahoo.com  
 >**Follow on**: [LinkedIn](https://www.linkedin.com/in/abhijitkhuperkar/) | [Twitter](https://twitter.com/akhuperkar) | [Getpocket](https://getpocket.com/@akhuperkar)   
